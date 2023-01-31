@@ -1,4 +1,4 @@
-x = int(input("Enter Given Binary Value :"))
+x = int(input("Enter Given Binary Value : "))
 sum  = 0
 a = 0
 
