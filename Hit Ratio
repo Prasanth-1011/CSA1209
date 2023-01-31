@@ -1,0 +1,4 @@
+h = int(input("Enter Number of Hits : "))
+m = int(input("Enter Number of Misses : "))
+
+print("Hit Ratio :" , h/(h+m))
