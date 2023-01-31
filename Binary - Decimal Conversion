@@ -3,7 +3,7 @@ sum  = 0
 a = 0
 
 while (x>0):
-    rem = x%10
+    rem = x % 10
     sum = sum + rem*(pow(2,a))
     a += 1
     x = x // 10
